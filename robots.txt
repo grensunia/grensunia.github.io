@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grensunia.github.io/sitemap.html.gz
+Sitemap: https://grensunia.github.io/app/sitemap.html.gz
+Sitemap: https://grensunia.github.io/assets/sitemap.html.gz
+Sitemap: https://grensunia.github.io/css/sitemap.html.gz
+Sitemap: https://grensunia.github.io/data/sitemap.html.gz
+Sitemap: https://grensunia.github.io/includes/sitemap.html.gz
+Sitemap: https://grensunia.github.io/item/sitemap.html.gz
+Sitemap: https://grensunia.github.io/src/sitemap.html.gz
